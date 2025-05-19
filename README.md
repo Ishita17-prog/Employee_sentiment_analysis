@@ -67,7 +67,7 @@ Created a **monthly average sentiment score** to track sentiment over time.
 
 - Enhance sentiment tracking models with **additional features** (e.g., role, department, team structure).
 - Use flagged flight-risk indicators for **HR intervention** strategies.
-- Extend predictive models with **NLP embeddings**, email length, or topic modeling for better accuracy.
+- Extend predictive models to non-linear methods.
   
 
 ---
